@@ -1,3 +1,14 @@
+```
+sudo rm -rf LCD-show
+git clone https://github.com/jcarrizalez/LCD-show.git
+chmod -R 755 LCD-show
+cd LCD-show/
+sudo ./LCD35-show
+```
+http://www.lcdwiki.com/3.5inch_RPi_Display
+
+#################################################################
+
 ### Install drivers in the Ubuntu system
 https://github.com/lcdwiki/LCD-show-ubuntu
 
